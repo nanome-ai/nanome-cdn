@@ -48,7 +48,8 @@
       "Fixed a crash happening when too many atoms were exactly at the same position"
     ],
     "releaseDate": "October 23, 2019",
-    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+1.14+RC4.zip"
+    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+1.14+RC4.zip",
+    "apkLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.14.apk"
   },
   {
     "number": "1.13",
