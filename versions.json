@@ -1,5 +1,54 @@
 [
   {
+    "number": "1.15",
+    "title": "The H-Bond Interaction Update",
+    "features": [
+      "Added layout update from plugins",
+      "Added multi-window capability to plugins",
+      "Added support for DCD, GRO, PQR, TRR, XTC, PSF files",
+      "Added a controller API to plugins",
+      "Added ability to rename Complexes, Chains, and Residues using the Hierarchy Menu",
+      "Added the ability to have macros interact with plugins",
+      "Added password to room invite",
+      "Added a switch between slider and knob on frame menu",
+      "Replaced EDM menu by a generic Map Viewer Menu",
+      "Implemented a brand new map display (electron density map, Cryo-Em, electrostatic potential map, etc.) backend",
+      "Redesigned loading menu",
+      "Changed icons in the information menu",
+      "Added PDB from RCSB to the loading options",
+      "Expanded button UI API for plugins",
+      "Added toggle fullscreen option",
+      "Added 2D UI for room invite",
+      "Made keyboard easier to use when far away",
+      "Integrated minimization plugin so that it will be used if available and trying to minimize on quest",
+      "Updated onboarding visuals",
+      "Updated H-bond calculations to support ligand-protein interactions",
+      "Moved email parts of keyboard to be below main keyboard instead of above",
+      "Added extension to file names in Load Menu’s Files tab grid items"
+    ],
+    "fixes": [
+      "Significant Improvements to thenetwork stability",
+
+      "Fixed bug on Measurement Tool where adding angles would add angstrom lengths too",
+      "Fixed bug where music doesn’t start until the headset is put on, and then the music plays even if you take off the headset",
+      "Fixed a serialization error with plugins",
+      "Fixed login error messages",
+      "Fixed a bug where plugin could change each other’s UI elements",
+      "Fixed a bug where a protein flies away when changing presenter",
+      "Fixed scaling of 2D UI",
+      "Fixed tools sub modes on Vive",
+      "Prevent text inputs from keeping focus when changing tab in a menu",
+      "Fixed undo/redo in 2D",
+      "Fixed in Display menu: Atom tab’s “Adapt to color” button text overlapping with icon",
+      "Fixed in Plugin Connection menu: item shrinking by width instead of height only",
+      "Improved system performances related to plugins",
+      "Removed lag related to configuration changes"
+    ],
+    "releaseDate": "November 27, 2019",
+    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome_1.15_RC8_Windows_Release.zip",
+    "apkLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.15.apk"
+  },
+  {
     "number": "1.14",
     "title": "The Info Menu Update",
     "features": [
