@@ -1,6 +1,6 @@
 [
   {
-    "number": "1.15",
+    "number": "1.15.1",
     "title": "The H-Bond Interaction Update",
     "features": [
       "Added layout update from plugins",
@@ -27,8 +27,7 @@
       "Added extension to file names in Load Menu’s Files tab grid items"
     ],
     "fixes": [
-      "Significant Improvements to thenetwork stability",
-
+      "Significant improvements to network stability",
       "Fixed bug on Measurement Tool where adding angles would add angstrom lengths too",
       "Fixed bug where music doesn’t start until the headset is put on, and then the music plays even if you take off the headset",
       "Fixed a serialization error with plugins",
@@ -42,10 +41,15 @@
       "Fixed in Display menu: Atom tab’s “Adapt to color” button text overlapping with icon",
       "Fixed in Plugin Connection menu: item shrinking by width instead of height only",
       "Improved system performances related to plugins",
-      "Removed lag related to configuration changes"
+      "Removed lag related to configuration changes",
+      "Fixed issues relating to non US locales",
+      "Fixed plugin quaternion flipping issues",
+      "Fixed plugin macro interaction error",
+      "Fixed MedChem atom bonding issues in conformers",
+      "Fixed MedChem not working when pointing at a menu"
     ],
     "releaseDate": "November 27, 2019",
-    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+1.15+RC8.zip",
+    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+1.15.1+RC11.zip",
     "apkLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.15.apk"
   },
   {
@@ -71,7 +75,7 @@
       "Added Prnt Scrn key as a hotkey for taking screenshots.",
       "Changed default camera field of view to 60",
       "Redesigned Selector and Measurement mode switching menus",
-      "In medchem build panel, changed “Clear all” behavior to “Restore default”",
+      "In MedChem build panel, changed “Clear all” behavior to “Restore default”",
       "Redesigned license upgrade prompt",
       "Added comments to SDF export",
       "Deselect database text field when loading",
@@ -126,7 +130,7 @@
       "Improved lists scrolling",
       "Changed visibility of a complex to turn on if off when zoomed",
       "Polished and added stock macros",
-      "Turned off auto hydrogens by default on the Med Chem build mode’s Prep panel",
+      "Turned off auto hydrogens by default on the MedChem build mode’s Prep panel",
       "Added a notification if a connected plugin gets disconnected",
       "Changed the way menus are moved on presenter switch from automatic grid lock to passing relative position of previous presenter. Also made it so that locked menus never move, even on presenter change",
       "Added toggle of navigation mode in 2D mode with “N” key"
@@ -217,7 +221,7 @@
     "number": "1.10",
     "title": "The Chemist Update",
     "features": [
-      "Medchem Tool: Build faster and more efficiently with pre-designed chains and residues",
+      "MedChem Tool: Build faster and more efficiently with pre-designed chains and residues",
       "Torsion Tool: Rotate bond angles",
       "Undo/Redo: Easily revert and edit with a full history of the workspace",
       "The Molecular Browser Menu has been split into 2 new menus: the Entry List and Hierarchy Menu",
@@ -241,7 +245,7 @@
   },
   {
     "number": "1.09",
-    "title": "Image Support + Medchem Tool",
+    "title": "Image Support + MedChem Tool",
     "features": [
       "Added a prompt to name a workspace before saving it",
       "Added a category dropdown on the Plugin Menu",
