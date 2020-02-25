@@ -1,5 +1,39 @@
 [
   {
+    "number": "1.16",
+    "title": "The Clashes Update",
+    "features": [
+      "Clash visualization of atom contact computations",
+      "Protein sequences viewer can perform pairwise sequence alignment",
+      "Chains and residues visibility can be toggled within the hierarchy menus",
+      "Favorite commonly used folders as for easy access in the new “Favorite” tab",
+      "View Solvent Accessible Surfaces (Only available in Action Menu for now → Display/Styles → Surface Style → Show SAS)",
+      "Volumetric maps can now be merged along with the molecules",
+      "The new usage indicator will help you keep your workspace light and fast (Available on Oculus Quest)",
+      "Unified raycast behavior of all tools",
+      "Added Pyridine to MedChem",
+      "Updated Meta Data star icon",
+      "Added a map contour range in config file",
+      "Changed default view of residues in Hierarchy Menu to be the single letter grid",
+      "Added ability to edit knob value, min and max directly with Numpad",
+      "Made Image Sharing and Room Sharing menus able to be grid locked, focused, locked",
+      "Changed Nanome Setup to assign a different icon for each file type in Windows",
+      "Improved search bars style",
+      "Added aromatic bond parsing for sdf and mol2"
+    ],
+    "fixes": [
+      "Significant improvements to network stability",
+      "Prevented menus from spawning underground if user is partially underground",
+      "Fixed bug with presenter switch not deselecting macro between users",
+      "Fixed bug where 2D users could request presenter in 2D mode",
+      "Fixed Plugin Windows callbacks when a plugin has more than one window",
+      "Fixed complex naming conflict refresh"
+    ],
+    "releaseDate": "February 24, 2020",
+    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+1.16+RC11.exe",
+    "apkLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.16.apk"
+  },
+  {
     "number": "1.15.1",
     "title": "The H-Bond Interaction Update",
     "features": [
