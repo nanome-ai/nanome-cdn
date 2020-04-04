@@ -1,5 +1,47 @@
 [
   {
+    "number": "1.17",
+    "title": "The New Molecule Update",
+    "features": [
+      "Introducing native support to compute, generate, and explore Electrostatic Potential Maps",
+      "Medchem toolkit has been updated to include the ability to create atoms and design molecules out of thin air",
+      "Exporting structures as SMILES format is now supported",
+      "Added a quick presenter request button on the wrist collaboration menu",
+      "For plugin enabled accounts, plugins will support formal charges data from PDB and SDF files & automatically suggest and activate plugins throughout the application."
+    ],
+    "fixes": [
+      "In Hierarchy Menu's small residue grid, replaced # (ligands) with the residue name and * (water) with HOH",
+      "Changed sequence menu to not show hetatoms chains",
+      "Added a default Hide Backbone Atoms macro",
+      "Added atom type to plugin protocol",
+      "Removed box labeled oversized structure",
+      "Box no longer toggles on when user does Align and Lock for complexes",
+      "Site View & Site View Cycle Macros no longer show water labels",
+      "Improved wireframe maps visual aspect & enable it for surfaces",
+      "Added full name tooltips for the amino acids in the mutate menu",
+      "Improved SMILES loading result",
+      "Added Password Fields to plugin TextFields",
+      "Refreshing macros now reflect changes made to nanome-config.ini",
+      "If there are more than 5 structures in a PSE file, they will now load default hidden",
+      "Added horizontal scrollbar for plugin grids",
+      "Added a notification for users when the internet connection is slow",
+      "Improved clashes menu",
+      "Improved antibody coloring (IMGT + KABAT)",
+      "Added Toggle Teleport for Non-Presenters to action menu",
+      "Improved confirmation prompt and display it for delete all frames",
+      "Added basic multi-data CIF loading support",
+      "Display when plugin is connecting and if connection timeout",
+      "Added choose specific avatar color through action menu",
+      "Fixed an offline room/single room label inconsistency",
+      "Added continuous calculation options for Clashes and H-bonds in Action menu",
+      "Improved voice commands. Added : Delete, Save, Turn on/off music, align selection. Open/Close menus.",
+      "Infrastructure for the Add Hydrogens plugin, Structure Preparation Plugin, and ESP"
+    ],
+    "releaseDate": "April 3, 2020",
+    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+1.17+RC10.zip",
+    "apkLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.17.apk"
+  },
+  {
     "number": "1.16",
     "title": "The Clashes Update",
     "features": [
