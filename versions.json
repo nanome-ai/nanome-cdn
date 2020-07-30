@@ -10,6 +10,7 @@
       "Users can now use a globally visible laser pointer to point at any area of interest by pressing the joystick. This feature can be disabled in the action menu",
       "The camera tool can now take screenshots with a transparent background",
       "Users can now snap-rotate by tilting their joysticks left or right to shift their perspective",
+      "Enterprise users can now toggle between private enterprise server and the Nanome public training server",
       "The Measurement tool can now delete all measurements by holding down the trigger",
       "Added dropdowns to the plugins UI",
       "The deletion sphere in the MedChem tool can be resized by moving the right joystick up/down. Also added a slider to visualize the size of the selection sphere",
@@ -38,6 +39,8 @@
       "Updated toggle buttons in the action menu to no longer have a deeper level of on/off buttons"
     ],
     "fixes": [
+      "Fixed Medchem Edit protein bug for small molecules",
+      "Hiding atoms does not cause lag on desktop anymore",
       "Updated plugin list dropdown to be dark",
       "Plugins can now update multiple layout nodes at once",
       "Added compatibility with new NTS protocol for user and room names",
@@ -56,8 +59,8 @@
       "Improved voice transmission performance"
     ],
     "releaseDate": "July 1, 2020",
-    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+1.18+RC11.zip",
-    "apkLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.18.apk"
+    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+1.18.1+RC4.zip",
+    "apkLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.18.1.apk"
   },
   {
     "number": "1.17",
