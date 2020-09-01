@@ -1,0 +1,150 @@
+{
+  "version": "1.18.1",
+  "featured_workspaces": [
+    {
+      "title": "Covid-19 Main Protease",
+      "description": "The crystal structure of SARS-CoV-2 Main Protease",
+      "pdb_codes": [
+        "6LU7"
+      ],
+      "workspace_file": "url",
+      "rectangular_image": "url",
+      "square_image": "url",
+      "featured_workspace_uid": "0"
+    },
+    {
+      "title": "Kinase Structure",
+      "description": "A dual leucine zipper kinase and inhibitor",
+      "pdb_codes": [
+        "5CEO"
+      ],
+      "workspace_file": "url",
+      "rectangular_image": "url",
+      "square_image": "url",
+      "featured_workspace_uid": "1"
+    },
+    {
+      "title": "Electrostatic Potential Maps",
+      "description": "Learn how to generate and view the Electrostatic Potential Map of a structure.",
+      "pdb_codes": [
+        "6OIM"
+      ],
+      "workspace_file": "url",
+      "rectangular_image": "url",
+      "square_image": "url",
+      "featured_workspace_uid": "2"
+    },
+    {
+      "title": "Molecular Dynamic Simulations",
+      "description": "Learn how to play a Molecular Dynamics Simulation trajectory using the Advanced Menu.",
+      "pdb_codes": [
+        ""
+      ],
+      "workspace_file": "url",
+      "rectangular_image": "url",
+      "square_image": "url",
+      "featured_workspace_uid": "3"
+    },
+    {
+      "title": "Electron Density Maps",
+      "description": "Learn how to load Electron Density Maps and view them with different properties.",
+      "pdb_codes": [
+        "1A0M"
+      ],
+      "workspace_file": "url",
+      "rectangular_image": "url",
+      "square_image": "url",
+      "featured_workspace_uid": "4"
+    },
+    {
+      "title": "Design a Molecule",
+      "description": "Learn how to create and modify a molecule using MedChem Toolkit.",
+      "pdb_codes": [
+        "5202"
+      ],
+      "workspace_file": "url",
+      "rectangular_image": "url",
+      "square_image": "url",
+      "featured_workspace_uid": "5"
+    },
+    {
+      "title": "Protein Sequence",
+      "description": "Learn how to view and align sequences of different chains using the Sequence Menu.",
+      "pdb_codes": [
+        "2HIU",
+        "2LYZ"
+      ],
+      "workspace_file": "url",
+      "rectangular_image": "url",
+      "square_image": "url",
+      "featured_workspace_uid": "6"
+    },
+    {
+      "title": "Export Molecules",
+      "description": "Learn how to load and export a molecular structure in Nanome.",
+      "pdb_codes": [],
+      "workspace_file": "url",
+      "rectangular_image": "url",
+      "square_image": "url",
+      "featured_workspace_uid": "7"
+    },
+    {
+      "title": "Electron Density Maps",
+      "description": "Learn how to load Electron Density Maps and view them with different properties.",
+      "pdb_codes": [
+        "1A0M"
+      ],
+      "workspace_file": "url",
+      "rectangular_image": "url",
+      "square_image": "url",
+      "featured_workspace_uid": "8"
+    },
+    {
+      "title": "Voice Commands",
+      "description": "View all of the voice commands available in Nanome.",
+      "pdb_codes": [
+        "1YUI"
+      ],
+      "workspace_file": "url",
+      "rectangular_image": "url",
+      "square_image": "url",
+      "featured_workspace_uid": "9"
+    },
+    {
+      "title": "Share a Picture",
+      "description": "Learn how to take a picture and share it with your colleagues.",
+      "pdb_codes": [
+        "1YUI"
+      ],
+      "workspace_file": "url",
+      "rectangular_image": "url",
+      "square_image": "url",
+      "featured_workspace_uid": "10"
+    },
+    {
+      "title": "Avatar Customization ",
+      "description": "Learn how to change your avatar color.",
+      "pdb_codes": [],
+      "workspace_file": "url",
+      "rectangular_image": "url",
+      "square_image": "url",
+      "featured_workspace_uid": "11"
+    },
+    {
+      "title": "Macro Scripts",
+      "description": "Learn about Nanome’s macro feature and how to use them.",
+      "pdb_codes": [
+        "1YUI"
+      ],
+      "workspace_file": "url",
+      "rectangular_image": "url",
+      "square_image": "url",
+      "featured_workspace_uid": "12"
+    }
+  ],
+  "featured_molecules": {
+    "0": "url",
+    "1": "url",
+    "2": "url"
+  }
+}
