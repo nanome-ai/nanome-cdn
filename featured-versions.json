@@ -144,24 +144,26 @@
   ],
   "featured_molecules": [
     {
-      "title": "COVID-19 Spike",
       "molecule_id": "6VYB",
-      "description": "description",
-      "molecule_image": "url",
       "file_type": "MMCIF",
       "file_source": "HTTP",
+      "source_url": "rawurl2nicemolecule.com/adasda/",
       "source_name": "RCSB Database",
-      "source_url": "rawurl2nicemolecule.com/adasda/"
+      "description": "description",
+      "title": "COVID-19 Spike",
+      "molecule_image": "url",
+      "featured_molecule_uid":"0"
     },
-    {
-      "title": "COVID-19 Spike",
-      "molecule_id": "6VYB",
-      "description": "description",
-      "molecule_image": "url",
+        {
+      "molecule_id": "6LU7",
       "file_type": "MMCIF",
       "file_source": "HTTP",
+      "source_url": "rawurl2nicemolecule.com/adasda/",
       "source_name": "RCSB Database",
-      "source_url": "rawurl2nicemolecule.com/adasda/"
+      "description": "description",
+      "title": "COVID-19 Spike",
+      "molecule_image": "url",
+      "featured_molecule_uid":"1"
     }
   ]
 }
