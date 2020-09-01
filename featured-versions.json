@@ -1,4 +1,4 @@
-{
+[{
   "version": "1.18.1",
   "featured_workspaces": [
     {
@@ -142,9 +142,27 @@
       "featured_workspace_uid": "12"
     }
   ],
-  "featured_molecules": {
-    "0": "url",
-    "1": "url",
-    "2": "url"
-  }
+  "featured_molecules": [
+    {
+      "title": "COVID-19 Spike",
+      "molecule_id": "6VYB",
+      "description": "description",
+      "molecule_image": "url",
+      "file_type": "MMCIF",
+      "file_source": "HTTP",
+      "source_name": "RCSB Database",
+      "source_url": "rawurl2nicemolecule.com/adasda/"
+    },
+    {
+      "title": "COVID-19 Spike",
+      "molecule_id": "6VYB",
+      "description": "description",
+      "molecule_image": "url",
+      "file_type": "MMCIF",
+      "file_source": "HTTP",
+      "source_name": "RCSB Database",
+      "source_url": "rawurl2nicemolecule.com/adasda/"
+    }
+  ]
 }
+]
