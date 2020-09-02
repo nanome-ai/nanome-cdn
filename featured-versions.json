@@ -132,28 +132,513 @@
         "featured_workspace_uid": "11"
       }
     ],
+    "featured_workspaces_standalone": [
+      {
+        "title": "Covid-19 Main Protease",
+        "description": "The crystal structure of SARS-CoV-2 Main Protease",
+        "pdb_codes": [
+          "6LU7"
+        ],
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-0-wscontent/sars-cov-2_protease.nanome?raw=true",
+        "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-0-wscontent/sars-cov-2-workspace.png?raw=true",
+        "square_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-0-wscontent/covid.png?raw=true",
+        "featured_workspace_uid": "0"
+      },
+      {
+        "title": "Kinase Structure",
+        "description": "A dual leucine zipper kinase and inhibitor",
+        "pdb_codes": [
+          "5CEO"
+        ],
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-1-wscontent/kinase_workspace.nanome?raw=true",
+        "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-1-wscontent/kinase-workspace.png?raw=true",
+        "square_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-1-wscontent/kinase.png?raw=true",
+        "featured_workspace_uid": "1"
+      },
+      {
+        "title": "Electrostatic Potential Maps",
+        "description": "Learn how to generate and view the Electrostatic Potential Map of a structure.",
+        "pdb_codes": [
+          "6OIM"
+        ],
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-2-wscontent/kras-esp-workspace.nanome?raw=true",
+        "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-2-wscontent/kras-esp-workspace.png?raw=true",
+        "square_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-2-wscontent/esp.png?raw=true",
+        "featured_workspace_uid": "2"
+      },
+      {
+        "title": "Molecular Dynamic Simulations",
+        "description": "Learn how to play a Molecular Dynamics Simulation trajectory using the Advanced Menu.",
+        "pdb_codes": [
+          ""
+        ],
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-3-wscontent/frame_menu.nanome?raw=true",
+        "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-3-wscontent/frame_menu.png?raw=true",
+        "square_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-3-wscontent/frame.png?raw=true",
+        "featured_workspace_uid": "3"
+      },
+      {
+        "title": "Electron Density Maps",
+        "description": "Learn how to load Electron Density Maps and view them with different properties.",
+        "pdb_codes": [
+          "1A0M"
+        ],
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-4-wscontent/edm.nanome?raw=true",
+        "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-4-wscontent/edm.png?raw=true",
+        "square_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-4-wscontent/edm%20(1).png?raw=true",
+        "featured_workspace_uid": "4"
+      },
+      {
+        "title": "Design a Molecule",
+        "description": "Learn how to create and modify a molecule using MedChem Toolkit.",
+        "pdb_codes": [
+          "5202"
+        ],
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-5-wscontent/medchem.nanome?raw=true",
+        "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-5-wscontent/frame_menu.png?raw=true",
+        "square_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-5-wscontent/medchem.png?raw=true",
+        "featured_workspace_uid": "5"
+      },
+      {
+        "title": "Protein Sequence",
+        "description": "Learn how to view and align sequences of different chains using the Sequence Menu.",
+        "pdb_codes": [
+          "2HIU",
+          "2LYZ"
+        ],
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-6-wscontent/protein_sequence.nanome?raw=true",
+        "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-6-wscontent/sequence.png?raw=true",
+        "square_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-6-wscontent/sequence%20(1).png?raw=true",
+        "featured_workspace_uid": "6"
+      },
+      {
+        "title": "Export Molecules",
+        "description": "Learn how to load and export a molecular structure in Nanome.",
+        "pdb_codes": [],
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-7-wscontent/load_export.nanome?raw=true",
+        "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-7-wscontent/load_export.png?raw=true",
+        "square_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-7-wscontent/load_export%20(1).png?raw=true",
+        "featured_workspace_uid": "7"
+      },
+      {
+        "title": "Voice Commands",
+        "description": "View all of the voice commands available in Nanome.",
+        "pdb_codes": [
+          "1YUI"
+        ],
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-8-wscontent/voice_command.nanome?raw=true",
+        "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-8-wscontent/voice_command.png?raw=true",
+        "square_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-8-wscontent/voice.png?raw=true",
+        "featured_workspace_uid": "8"
+      },
+      {
+        "title": "Share a Picture",
+        "description": "Learn how to take a picture and share it with your colleagues.",
+        "pdb_codes": [
+          "1YUI"
+        ],
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-9-wscontent/camera.nanome?raw=true",
+        "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-9-wscontent/camera_cover.png?raw=true",
+        "square_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-9-wscontent/camera.png?raw=true",
+        "featured_workspace_uid": "9"
+      },
+      {
+        "title": "Avatar Customization ",
+        "description": "Learn how to change your avatar color.",
+        "pdb_codes": [],
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-10-wscontent/avatar_color.nanome?raw=true",
+        "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-10-wscontent/avatar_color.pdf.png?raw=true",
+        "square_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-10-wscontent/avatar.png?raw=true",
+        "featured_workspace_uid": "10"
+      },
+      {
+        "title": "Macro Scripts",
+        "description": "Learn about Nanome’s macro feature and how to use them.",
+        "pdb_codes": [
+          "1YUI"
+        ],
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-11-wscontent/macro.nanome?raw=true",
+        "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-11-wscontent/macro.png?raw=true",
+        "square_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-11-wscontent/macro%20(1).png?raw=true",
+        "featured_workspace_uid": "11"
+      }
+    ],
     "featured_molecules": [
       {
         "molecule_id": "6VYB",
         "file_type": "MMCIF",
         "file_source": "HTTP",
-        "source_url": "rawurl2nicemolecule.com/adasda/",
+        "source_url": "https://files.rcsb.org/download/6VYB.cif",
         "source_name": "RCSB Database",
-        "description": "description",
+        "description": "This is the spike that covers the Coronavirus SARS-CoV-2. It is in the “open-state” which binds to human cell ACE2 proteins.",
         "title": "COVID-19 Spike",
-        "molecule_image": "url",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-0-6VYB.png?raw=true",
         "featured_molecule_uid": "0"
       },
       {
         "molecule_id": "6LU7",
         "file_type": "MMCIF",
         "file_source": "HTTP",
-        "source_url": "rawurl2nicemolecule.com/adasda/",
+        "source_url": "https://files.rcsb.org/download/6LU7.cif",
         "source_name": "RCSB Database",
-        "description": "description",
-        "title": "COVID-19 Spike",
-        "molecule_image": "url",
+        "description": "This crystal structure is in complex with an inhibitor N3 in the active center which the protease uses to cleave other proteins.",
+        "title": "COVID-19 Main Protease",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-1-6LU7.png?raw=true",
         "featured_molecule_uid": "1"
+      },
+      {
+        "molecule_id": "241",
+        "file_type": "SDF",
+        "file_source": "HTTP",
+        "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/241/record/SDF/?record_type=3d&response_type=save&response_basename=241",
+        "source_name": "PubChem CID",
+        "description": "Benzene is a clear, colorless, highly flammable and volatile, liquid aromatic hydrocarbon.",
+        "title": "Benzene",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-2-241.png?raw=true",
+        "featured_molecule_uid": "2"
+      },
+      {
+        "molecule_id": "2HIU",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/2HIU.cif",
+        "source_name": "RCSB Database",
+        "description": "The hormone insulin helps control the level of glucose in the blood.",
+        "title": "Insulin",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-3-2HIU.png?raw=true",
+        "featured_molecule_uid": "3"
+      },
+      {
+        "molecule_id": "2HHB",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/2HHB.cif",
+        "source_name": "RCSB Database",
+        "description": "Hemoglobin uses a change in shape to increase the efficiency of oxygen transport.",
+        "title": "Hemoglobin",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-4-2HHB.png?raw=true",
+        "featured_molecule_uid": "4"
+      },
+      {
+        "molecule_id": "2LYZ",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/2LYZ.cif",
+        "source_name": "RCSB Database",
+        "description": "Lysozyme attacks the cell walls of bacteria: hen egg-white lysozyme.",
+        "title": "Lysozyme",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-5-2LYZ.png?raw=true",
+        "featured_molecule_uid": "5"
+      },
+      {
+        "molecule_id": "1EMA",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/1EMA.cif",
+        "source_name": "RCSB Database",
+        "description": "Green Fluorescent Protein (GFP) from the Pacific Northwest jellyfish Aequorea victoria.",
+        "title": "GFP",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-6-1EMA.png?raw=true",
+        "featured_molecule_uid": "6"
+      },
+      {
+        "molecule_id": "1BL8",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/1BL8.cif",
+        "source_name": "RCSB Database",
+        "description": "Potassium channels act as files allowing only potassium ions passage.",
+        "title": "'K' Channel",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-7-1BL8.png?raw=true",
+        "featured_molecule_uid": "7"
+      },
+      {
+        "molecule_id": "1AOI",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/1AOI.cif",
+        "source_name": "RCSB Database",
+        "description": "Nucleosomes store and protect the cell's genome.",
+        "title": "Nucleosome",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-8-1AOI.png?raw=true",
+        "featured_molecule_uid": "8"
+      },
+      {
+        "molecule_id": "1CA2",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/1CA2.cif",
+        "source_name": "RCSB Database",
+        "description": "Carbonic anhydrase solubilizes carbon dioxide gas so we can breathe it out.",
+        "title": "Carbonic Anhydrase",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-9-1CA2.png?raw=true",
+        "featured_molecule_uid": "9"
+      },
+      {
+        "molecule_id": "1HTB",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "url",
+        "source_name": "RCSB Database",
+        "description": "Alcohol dehydrogenase detoxifies the ethanol we drink.",
+        "title": "Alcohol Dehydrogenase",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-10-1HTB.png?raw=true",
+        "featured_molecule_uid": "10"
+      },
+      {
+        "molecule_id": "1FHA",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/1FHA.cif",
+        "source_name": "RCSB Database",
+        "description": "Ferritin is important in iron homeostasis.",
+        "title": "Ferritin",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-11-1FHA.png?raw=true",
+        "featured_molecule_uid": "11"
+      },
+      {
+        "molecule_id": "1H76",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/1H76.cif",
+        "source_name": "RCSB Database",
+        "description": "Transferrins are responsible for the transport of iron in vertebrates.",
+        "title": "Transferrin",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-12-1H76.png?raw=true",
+        "featured_molecule_uid": "12"
+      },
+      {
+        "molecule_id": "6ASA",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/6ASA.cif",
+        "source_name": "RCSB Database",
+        "description": "KRAS switch loop movements play a crucial role in regulating RAS signaling.",
+        "title": "GTPase KRas",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-13-6ASA.png?raw=true",
+        "featured_molecule_uid": "13"
+      },
+      {
+        "molecule_id": "1F88",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/1F88.cif",
+        "source_name": "RCSB Database",
+        "description": "In our eyes, rhodopsin uses the molecule retinal to see light.",
+        "title": "Bovine Rhodopsin",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-14-1F88.png?raw=true",
+        "featured_molecule_uid": "14"
+      },
+      {
+        "molecule_id": "2V3O",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/2V3O.cif",
+        "source_name": "RCSB Database",
+        "description": "Thrombin activates the molecule that forms blood clots.",
+        "title": "Thrombin",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-15-2V3O.png?raw=true",
+        "featured_molecule_uid": "15"
+      },
+      {
+        "molecule_id": "1UOR",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/1UOR.cif",
+        "source_name": "RCSB Database",
+        "description": "Serum albumin delivers fatty acid molecules through the bloodstream.",
+        "title": "Serum Albumin",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-16-1UOR.png?raw=true",
+        "featured_molecule_uid": "16"
+      },
+      {
+        "molecule_id": "1BRD",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/1BRD.cif",
+        "source_name": "RCSB Database",
+        "description": "Bacteriorhodopsin pumps protons powered by green sunlight.",
+        "title": "Bacteriorhodopsin",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-17-1BRD.png?raw=true",
+        "featured_molecule_uid": "17"
+      },
+      {
+        "molecule_id": "5CGC",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/5CGC.cif",
+        "source_name": "RCSB Database",
+        "description": "A thermostabilized mGlu5 receptor using a high-concentration radioligand binding assay.",
+        "title": "mGlu5",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-18-5CGC.png?raw=true",
+        "featured_molecule_uid": "18"
+      },
+      {
+        "molecule_id": "3HNG",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/3HNG.cif",
+        "source_name": "RCSB Database",
+        "description": "Vascular endothelial growth factor receptor 1 (VEGFR) is a kinase used in cancer research.",
+        "title": "VEGFR",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-19-3HNG.png?raw=true",
+        "featured_molecule_uid": "19"
+      },
+      {
+        "molecule_id": "1EVE",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/1EVE.cif",
+        "source_name": "RCSB Database",
+        "description": "Acetylcholinesterase (AChE) inhibitors are being used in anti-Alzheimer drug development.",
+        "title": "AChE",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-20-1EVE.png?raw=true",
+        "featured_molecule_uid": "20"
+      },
+      {
+        "molecule_id": "4FYI",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/4FYI.cif",
+        "source_name": "RCSB Database",
+        "description": "Rcl is an N-glycoside hydrolase whose role in nucleotide catabolism has suggested that it might fuel cancer growth.",
+        "title": "Rcl",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-21-4FYI.png?raw=true",
+        "featured_molecule_uid": "21"
+      },
+      {
+        "molecule_id": "4YFF",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/4YFF.cif",
+        "source_name": "RCSB Database",
+        "description": "This is a series of cardiac troponin I-interacting kinase (TNNI3K) inhibitors.",
+        "title": "TNNI3K",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-22-4YFF.png?raw=true",
+        "featured_molecule_uid": "22"
+      },
+      {
+        "molecule_id": "4GMC",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/4GMC.cif",
+        "source_name": "RCSB Database",
+        "description": "This is a hepatitis C virus (HCV) NS5B polymerase inhibitor.",
+        "title": "NS5B Polymerase",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-23-4GMC.png?raw=true",
+        "featured_molecule_uid": "23"
+      }
+    ],
+    "featured_molecules_standalone": [
+      {
+        "molecule_id": "6LU7",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/6LU7.cif",
+        "source_name": "RCSB Database",
+        "description": "This crystal structure is in complex with an inhibitor N3 in the active center which the protease uses to cleave other proteins.",
+        "title": "COVID-19 Main Protease",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-1-6LU7.png?raw=true",
+        "featured_molecule_uid": "1"
+      },
+      {
+        "molecule_id": "241",
+        "file_type": "SDF",
+        "file_source": "HTTP",
+        "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/241/record/SDF/?record_type=3d&response_type=save&response_basename=241",
+        "source_name": "PubChem CID",
+        "description": "Benzene is a clear, colorless, highly flammable and volatile, liquid aromatic hydrocarbon.",
+        "title": "Benzene",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-2-241.png?raw=true",
+        "featured_molecule_uid": "2"
+      },
+      {
+        "molecule_id": "2HIU",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/2HIU.cif",
+        "source_name": "RCSB Database",
+        "description": "The hormone insulin helps control the level of glucose in the blood.",
+        "title": "Insulin",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-3-2HIU.png?raw=true",
+        "featured_molecule_uid": "3"
+      },
+      {
+        "molecule_id": "2LYZ",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/2LYZ.cif",
+        "source_name": "RCSB Database",
+        "description": "Lysozyme attacks the cell walls of bacteria: hen egg-white lysozyme.",
+        "title": "Lysozyme",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-5-2LYZ.png?raw=true",
+        "featured_molecule_uid": "5"
+      },
+      {
+        "molecule_id": "1EMA",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/1EMA.cif",
+        "source_name": "RCSB Database",
+        "description": "Green Fluorescent Protein (GFP) from the Pacific Northwest jellyfish Aequorea victoria.",
+        "title": "GFP",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-6-1EMA.png?raw=true",
+        "featured_molecule_uid": "6"
+      },
+      {
+        "molecule_id": "1BL8",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/1BL8.cif",
+        "source_name": "RCSB Database",
+        "description": "Potassium channels act as files allowing only potassium ions passage.",
+        "title": "'K' Channel",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-7-1BL8.png?raw=true",
+        "featured_molecule_uid": "7"
+      },
+      {
+        "molecule_id": "1CA2",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/1CA2.cif",
+        "source_name": "RCSB Database",
+        "description": "Carbonic anhydrase solubilizes carbon dioxide gas so we can breathe it out.",
+        "title": "Carbonic Anhydrase",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-9-1CA2.png?raw=true",
+        "featured_molecule_uid": "9"
+      },
+      {
+        "molecule_id": "1FHA",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/1FHA.cif",
+        "source_name": "RCSB Database",
+        "description": "Ferritin is important in iron homeostasis.",
+        "title": "Ferritin",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-11-1FHA.png?raw=true",
+        "featured_molecule_uid": "11"
+      },
+      {
+        "molecule_id": "2V3O",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/2V3O.cif",
+        "source_name": "RCSB Database",
+        "description": "Thrombin activates the molecule that forms blood clots.",
+        "title": "Thrombin",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-15-2V3O.png?raw=true",
+        "featured_molecule_uid": "15"
+      },
+      {
+        "molecule_id": "1BRD",
+        "file_type": "MMCIF",
+        "file_source": "HTTP",
+        "source_url": "https://files.rcsb.org/download/1BRD.cif",
+        "source_name": "RCSB Database",
+        "description": "Bacteriorhodopsin pumps protons powered by green sunlight.",
+        "title": "Bacteriorhodopsin",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-17-1BRD.png?raw=true",
+        "featured_molecule_uid": "17"
       }
     ]
   }
