@@ -38,9 +38,7 @@
       {
         "title": "Molecular Dynamic Simulations",
         "description": "Learn how to play a Molecular Dynamics Simulation trajectory using the Advanced Menu.",
-        "pdb_codes": [
-          ""
-        ],
+        "pdb_codes": [],
         "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-3-wscontent/frame_menu.nanome",
         "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-3-wscontent/frame_menu.png",
         "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-3-wscontent/frame.png",
@@ -169,9 +167,7 @@
       {
         "title": "Molecular Dynamic Simulations",
         "description": "Learn how to play a Molecular Dynamics Simulation trajectory using the Advanced Menu.",
-        "pdb_codes": [
-          ""
-        ],
+        "pdb_codes": [],
         "workspace_file": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-3-wscontent/frame_menu.nanome?raw=true",
         "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-3-wscontent/frame_menu.png?raw=true",
         "square_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-workspaces/uid-3-wscontent/frame.png?raw=true",
