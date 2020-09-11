@@ -8,7 +8,7 @@
         "pdb_codes": [
           "6LU7"
         ],
-        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-0-wscontent/sars_cov_2_workspace.bytes",
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-0-wscontent/0_sars_cov_2_workspace.bytes",
         "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-0-wscontent/sars_cov_2_workspace.png",
         "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-0-wscontent/covid.png",
         "featured_workspace_uid": "0"
@@ -19,7 +19,7 @@
         "pdb_codes": [
           "5CEO"
         ],
-        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-1-wscontent/kinase_workspace.nanome",
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-1-wscontent/1_kinase_workspace.bytes",
         "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-1-wscontent/kinase_workspace.png",
         "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-1-wscontent/kinase.png",
         "featured_workspace_uid": "1"
@@ -30,7 +30,7 @@
         "pdb_codes": [
           "6OIM"
         ],
-        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-2-wscontent/kras-esp-workspace.nanome",
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-2-wscontent/2_kras_esp_workspace.bytes",
         "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-2-wscontent/kras_esp_workspace.png",
         "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-2-wscontent/esp.png",
         "featured_workspace_uid": "2"
@@ -39,7 +39,7 @@
         "title": "Molecular Dynamic Simulations",
         "description": "Learn how to play a Molecular Dynamics Simulation trajectory using the Advanced Menu.",
         "pdb_codes": [],
-        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-3-wscontent/frame_menu.nanome",
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-3-wscontent/3_frame_menu_workspace.bytes",
         "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-3-wscontent/frame_menu_workspace.png",
         "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-3-wscontent/frame.png",
         "featured_workspace_uid": "3"
@@ -50,9 +50,9 @@
         "pdb_codes": [
           "1A0M"
         ],
-        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-4-wscontent/edm.nanome",
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-4-wscontent/4_edm_workspace.bytes",
         "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-4-wscontent/edm_workspace.png",
-        "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-4-wscontent/edm%20(1).png",
+        "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-4-wscontent/edm.png",
         "featured_workspace_uid": "4"
       },
       {
@@ -61,8 +61,8 @@
         "pdb_codes": [
           "5202"
         ],
-        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-5-wscontent/medchem.nanome",
-        "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-5-wscontent/frame_menu_workspace.png",
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-5-wscontent/5_medchem_workspace.bytes",
+        "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-5-wscontent/medchem_workspace.png",
         "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-5-wscontent/medchem.png",
         "featured_workspace_uid": "5"
       },
@@ -73,18 +73,18 @@
           "2HIU",
           "2LYZ"
         ],
-        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-6-wscontent/protein_sequence.nanome",
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-6-wscontent/6_sequence_workspace.bytes",
         "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-6-wscontent/sequence_workspace.png",
-        "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-6-wscontent/sequence%20(1).png",
+        "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-6-wscontent/sequence.png",
         "featured_workspace_uid": "6"
       },
       {
         "title": "Export Molecules",
         "description": "Learn how to load and export a molecular structure in Nanome.",
         "pdb_codes": [],
-        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-7-wscontent/load_export.nanome",
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-7-wscontent/7_load_export_workspace.bytes",
         "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-7-wscontent/load_export_workspace.png",
-        "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-7-wscontent/load_export%20(1).png",
+        "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-7-wscontent/load_export.png",
         "featured_workspace_uid": "7"
       },
       {
@@ -93,7 +93,7 @@
         "pdb_codes": [
           "1YUI"
         ],
-        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-8-wscontent/voice_command.nanome",
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-8-wscontent/8_voice_command_workspace.bytes",
         "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-8-wscontent/voice_command_workspace.png",
         "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-8-wscontent/voice.png",
         "featured_workspace_uid": "8"
@@ -104,7 +104,7 @@
         "pdb_codes": [
           "1YUI"
         ],
-        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-9-wscontent/camera.nanome",
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-9-wscontent/9_camera_workspace.bytes",
         "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-9-wscontent/camera_workspace.png",
         "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-9-wscontent/camera.png",
         "featured_workspace_uid": "9"
@@ -113,7 +113,7 @@
         "title": "Avatar Customization ",
         "description": "Learn how to customize your avatar by changing the color and style.",
         "pdb_codes": [],
-        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-10-wscontent/avatar_customization_workspace.bytes",
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-10-wscontent/10_avatar_customization_workspace.bytes",
         "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-10-wscontent/avatar_customization_workspace.png",
         "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-10-wscontent/AvatarImage.png",
         "featured_workspace_uid": "10"
@@ -124,9 +124,9 @@
         "pdb_codes": [
           "1YUI"
         ],
-        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-11-wscontent/macro.nanome",
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-11-wscontent/11_macro_workspace.bytes",
         "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-11-wscontent/macro_workspace.png",
-        "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-11-wscontent/macro%20(1).png",
+        "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-11-wscontent/macro.png",
         "featured_workspace_uid": "11"
       }
     ],
@@ -137,7 +137,7 @@
         "pdb_codes": [
           "6LU7"
         ],
-        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-0-wscontent/sars_cov_2_workspace.bytes",
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-0-wscontent/0_sars_cov_2_workspace.bytes",
         "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-0-wscontent/sars_cov_2_workspace.png",
         "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-0-wscontent/covid.png",
         "featured_workspace_uid": "0"
@@ -148,7 +148,7 @@
         "pdb_codes": [
           "5CEO"
         ],
-        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-1-wscontent/kinase_workspace.nanome",
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-1-wscontent/1_kinase_workspace.bytes",
         "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-1-wscontent/kinase_workspace.png",
         "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-1-wscontent/kinase.png",
         "featured_workspace_uid": "1"
@@ -159,7 +159,7 @@
         "pdb_codes": [
           "6OIM"
         ],
-        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-2-wscontent/kras-esp-workspace.nanome",
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-2-wscontent/2_kras_esp_workspace.bytes",
         "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-2-wscontent/kras_esp_workspace.png",
         "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-2-wscontent/esp.png",
         "featured_workspace_uid": "2"
@@ -168,7 +168,7 @@
         "title": "Molecular Dynamic Simulations",
         "description": "Learn how to play a Molecular Dynamics Simulation trajectory using the Advanced Menu.",
         "pdb_codes": [],
-        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-3-wscontent/frame_menu.nanome",
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-3-wscontent/3_frame_menu_workspace.bytes",
         "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-3-wscontent/frame_menu_workspace.png",
         "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-3-wscontent/frame.png",
         "featured_workspace_uid": "3"
@@ -179,9 +179,9 @@
         "pdb_codes": [
           "1A0M"
         ],
-        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-4-wscontent/edm.nanome",
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-4-wscontent/4_edm_workspace.bytes",
         "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-4-wscontent/edm_workspace.png",
-        "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-4-wscontent/edm%20(1).png",
+        "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-4-wscontent/edm.png",
         "featured_workspace_uid": "4"
       },
       {
@@ -190,8 +190,8 @@
         "pdb_codes": [
           "5202"
         ],
-        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-5-wscontent/medchem.nanome",
-        "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-5-wscontent/frame_menu_workspace.png",
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-5-wscontent/5_medchem_workspace.bytes",
+        "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-5-wscontent/medchem_workspace.png",
         "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-5-wscontent/medchem.png",
         "featured_workspace_uid": "5"
       },
@@ -202,18 +202,18 @@
           "2HIU",
           "2LYZ"
         ],
-        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-6-wscontent/protein_sequence.nanome",
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-6-wscontent/6_sequence_workspace.bytes",
         "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-6-wscontent/sequence_workspace.png",
-        "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-6-wscontent/sequence%20(1).png",
+        "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-6-wscontent/sequence.png",
         "featured_workspace_uid": "6"
       },
       {
         "title": "Export Molecules",
         "description": "Learn how to load and export a molecular structure in Nanome.",
         "pdb_codes": [],
-        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-7-wscontent/load_export.nanome",
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-7-wscontent/7_load_export_workspace.bytes",
         "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-7-wscontent/load_export_workspace.png",
-        "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-7-wscontent/load_export%20(1).png",
+        "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-7-wscontent/load_export.png",
         "featured_workspace_uid": "7"
       },
       {
@@ -222,7 +222,7 @@
         "pdb_codes": [
           "1YUI"
         ],
-        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-8-wscontent/voice_command.nanome",
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-8-wscontent/8_voice_command_workspace.bytes",
         "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-8-wscontent/voice_command_workspace.png",
         "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-8-wscontent/voice.png",
         "featured_workspace_uid": "8"
@@ -233,7 +233,7 @@
         "pdb_codes": [
           "1YUI"
         ],
-        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-9-wscontent/camera.nanome",
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-9-wscontent/9_camera_workspace.bytes",
         "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-9-wscontent/camera_workspace.png",
         "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-9-wscontent/camera.png",
         "featured_workspace_uid": "9"
@@ -242,7 +242,7 @@
         "title": "Avatar Customization ",
         "description": "Learn how to customize your avatar by changing the color and style.",
         "pdb_codes": [],
-        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-10-wscontent/avatar_customization_workspace.bytes",
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-10-wscontent/10_avatar_customization_workspace.bytes",
         "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-10-wscontent/avatar_customization_workspace.png",
         "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-10-wscontent/AvatarImage.png",
         "featured_workspace_uid": "10"
@@ -253,9 +253,9 @@
         "pdb_codes": [
           "1YUI"
         ],
-        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-11-wscontent/macro.nanome",
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-11-wscontent/11_macro_workspace.bytes",
         "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-11-wscontent/macro_workspace.png",
-        "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-11-wscontent/macro%20(1).png",
+        "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-11-wscontent/macro.png",
         "featured_workspace_uid": "11"
       }
     ],
