@@ -14,7 +14,6 @@
       "Presenters are now able to mute all users with the Action menu",
       "A new Quick Prep Menu enables you to apply multiple plugins to structures already loaded in the room or apply them prior to rendering new structures",
       "The Wrist Menu of each user is now visible to everyone in the room",
-      "New bonding algorithm, based on Sayle’s method, is natively implemented",
       "The Entry List now includes a submenu to hide ligand/protein/solvent",
       "An arbitrary shapes API, which currently supports semi-transparent spheres, is now available for plugin developers",
       "Users now have the ability to request access into a password-protected room",
