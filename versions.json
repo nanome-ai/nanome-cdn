@@ -1,6 +1,6 @@
 [
   {
-    "number": "1.19",
+    "number": "1.19.2",
     "title": "The Whiteboard Update",
     "features": [
       "Introducing the new Whiteboard Tool, available for every user",
@@ -85,9 +85,9 @@
       "Removed colliders on plugin images when not needed",
       "Fixed memory problem with EDM that was causing Quest to crash"
     ],
-    "releaseDate": "October 14, 2020",
+    "releaseDate": "November 17, 2020",
     "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+1.19+RC21.zip",
-    "apkLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.19.apk"
+    "apkLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.19.2.apk"
   },
   {
     "number": "1.18.2",
