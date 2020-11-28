@@ -1,6 +1,7 @@
 [
   {
-    "number": "0.5",
-    "downloadLink": ""
+    "number": "0.5.2",
+    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/StackStudio/StackStudio_v5.2_Windows.zip",
+    "macDownloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/StackStudio/StackStudio_v0.5_Mac.zip"
   }
 ]
