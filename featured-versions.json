@@ -374,7 +374,7 @@
         "molecule_id": "1HTB",
         "file_type": "MMCIF",
         "file_source": "HTTP",
-        "source_url": "url",
+        "source_url": "https://files.rcsb.org/download/1HTB.cif",
         "source_name": "RCSB Database",
         "description": "Alcohol dehydrogenase detoxifies the ethanol we drink.",
         "title": "Alcohol Dehydrogenase",
