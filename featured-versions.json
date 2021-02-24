@@ -332,7 +332,7 @@
         "file_source": "HTTP",
         "source_url": "https://files.rcsb.org/download/4L36.cif",
         "source_name": "RCSB Database",
-        "description": "A cytochrome P450 enzyme from Streptomyces scabies 87.22, catalyzes direct nitration of the indolyl moiety of L-tryptophan to L-4-nitrotryptophan using nitric oxide, dioxygen and NADPH",
+        "description": "A cytochrome P450 enzyme catalyzes direct nitration of the indolyl moiety.",
         "title": "TxtE",
         "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-6-4L36.png?raw=true",
         "featured_molecule_uid": "6"
