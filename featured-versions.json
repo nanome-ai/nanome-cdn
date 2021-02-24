@@ -327,14 +327,14 @@
         "featured_molecule_uid": "5"
       },
       {
-        "molecule_id": "1EMA",
+        "molecule_id": "4L36",
         "file_type": "MMCIF",
         "file_source": "HTTP",
-        "source_url": "https://files.rcsb.org/download/1EMA.cif",
+        "source_url": "https://files.rcsb.org/download/4L36.cif",
         "source_name": "RCSB Database",
-        "description": "Green Fluorescent Protein (GFP) from the Pacific Northwest jellyfish Aequorea victoria.",
-        "title": "GFP",
-        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-6-1EMA.png?raw=true",
+        "description": "A cytochrome P450 enzyme from Streptomyces scabies 87.22, catalyzes direct nitration of the indolyl moiety of L-tryptophan to L-4-nitrotryptophan using nitric oxide, dioxygen and NADPH",
+        "title": "TxtE",
+        "molecule_image": "https://github.com/nanome-ai/nanome-cdn/blob/master/Featured-molecules/uid-6-4L36.png?raw=true",
         "featured_molecule_uid": "6"
       },
       {
