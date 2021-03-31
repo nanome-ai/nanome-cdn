@@ -1,5 +1,50 @@
 [
   {
+    "number": "1.20.2",
+    "title": "The Spatial Recording Update",
+    "features": [
+      "Added a new interactive tutorial system called Nanome Basics",
+      "Added an experimental version of Spatial recording which allows users to record a collaboration and replay it back later with others.",
+      "Added an Advanced Tutorials menu which consists of Spatial Recordings",
+      "Added the ability to draw on images and PDFs just like using the whiteboard",
+      "Added Undo/Redo support for drawing on whiteboard and images/PDFs",
+      "Updated the Entry list to have ",
+      "collapsible parents for easy identification of primary components of a structure (e.g. Protein, Ligand(s), Solvent)",
+      "Tabs to switch between the full list of ligands or images/pdfs only",
+      "2D representation preview in the ligand tab enabled by a plugin",
+      "Ability to toggle the visibility of the images/pdfs in the documents tab",
+      "Extended height to accommodate a larger list of items",
+      "Plugin support for selecting one of the default Skyboxes",
+      "Added a new tab to the load menu to support custom database integrations via plugins",
+      "Plugin API support for changing the color of atoms/ribbons/surfaces",
+      "Added the ability to upload workspaces, whiteboards, and structure export to support native exporting to the Nanome Vault Plugin",
+      "Added additional HP Reverb G2 support",
+      "Added plugin API authorization",
+      "Added at the ability to request a premium trial for free users directly from the upgrade prompt",
+      "Ranking frames (stars) can now be done easily and directly in the metadata tab of the frames menu",
+      "2D mode users have a scrollable user list ",
+      "Expanded support for plugins using the FileAPI for loading ",
+      "Added support for multi-line SMILES and optional molecule name at end of line",
+      "Removed preset menu from open all",
+      "Improved whiteboard panel",
+      "Added resolution to RCSB keyword search results",
+      "Added current Nanome version number to show in the Nanome Lobby on the settings tab and in a regular room wrist menu",
+      "Updated the sequence menu to automatically select the two first chains added"
+    ],
+    "fixes": [
+      "Fixed small bug in hydrogen connectivity for bonding",
+      "Fixed application pause when Oculus Quest is removed from head and placed on the desk",
+      "Fixed bugs with plugin shape API & streams",
+      "Updated the transparency prioritization to make labels and menus more clear while handling transparent objects",
+      "Fixed sending images to an email that is not your own",
+      "Fixed Lobby water and fire",
+      "Fixed RCSB keyword search to adapt to their new API"
+    ],
+    "releaseDate": "March 31, 2021",
+    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+1.20+RC20.zip",
+    "apkLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.20.apk"
+  },
+  {
     "number": "1.19.2",
     "title": "The Whiteboard Update",
     "features": [
