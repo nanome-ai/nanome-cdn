@@ -18,9 +18,9 @@
       "Improved workspace & room network loading speed when loading images & pdf",
       "Improved Ribbon Rendering Performance (Quest 1 has the largest performance improvement)"
     ],
-    "releaseDate": "March 31, 2021",
-    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+1.20+RC20.zip",
-    "apkLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.20.apk"
+    "releaseDate": "April 21, 2021",
+    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+1.21+RC9.zip",
+    "apkLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.21+RC9.apk"
   },
   {
     "number": "1.20",
