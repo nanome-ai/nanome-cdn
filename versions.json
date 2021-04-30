@@ -1,11 +1,12 @@
 [
   {
-    "number": "1.21",
+    "number": "1.21.1",
     "title": "The Advanced Tutorial Update",
     "features": [
       "Introduced the 30 day free trial system with early access to the Nanome-hosted Plugins",
       "Automatically enrolls new users into the 30 day free trial system",
       "Existing users with the Personal (free) license can activate their 30 day free trial",
+      "Added Chem101 Spatial Tutorials",
       "Improved Spatial recording beta feature for performance and optimizations",
       "Added additional in-app tutorials for Chem101",
       "Extended Plugin System support for arbitrary dashed lines (For future chemical interactions plugins)",
@@ -19,8 +20,8 @@
       "Improved Ribbon Rendering Performance (Quest 1 has the largest performance improvement)"
     ],
     "releaseDate": "April 21, 2021",
-    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+1.21+RC9.zip",
-    "apkLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.21+RC9.apk"
+    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+1.21.1+RC4.zip",
+    "apkLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.21.1+RC4.apk"
   },
   {
     "number": "1.20",
