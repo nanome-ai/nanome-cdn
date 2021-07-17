@@ -1,5 +1,41 @@
 [
   {
+    "number": "1.21.2",
+    "title": "The Web Browser Update",
+    "features": [
+      "In-Web Browser that has a private and public viewing mode",
+      "Deep linking (application protocol) now enables 3rd party web platforms to make an Open in Nanome button.",
+      "New Settings Menu contains Sound and User settings along with a controller guide",
+      "Polar hydrogens are now supported via a plugin",
+      "New Avatar style (Reverse Bob) and Advanced customization (use different colors for the hair, glasses and shirt)",
+      "Users can now copy a Protein sequence or a Ligand’s SMILES string from the Entry List",
+      "Added a copy Chain sequence to the Sequence Menu",
+      "The keyboard now contains a copy and paste button ",
+      "Ligands can now be renamed easily from the Entry list",
+      "Rooms in the lobby show when an active Spatial Recording is in progress",
+      "Users attempting to join a room during a live recording will be prompted before continuing.",
+      "In-App camera can be mirrored to desktop (PCVR only)",
+      "Added aromatic bond parsing for sdf and mol2 "
+    ],
+    "fixes": [
+      "Fixed fire volume in lobby",
+      "Fixed plugin shapes visibility",
+      "Delete Sequence Menu Instances when loading or clearing workspace",
+      "Fixed export to non-existent path",
+      "Prevented prompts from being open for a split second when first joining lobby",
+      "Fixed bug where top row of keyboard wasn’t clickable/hoverable",
+      "Fixed bug with missing marker materials for Whiteboard",
+      "Prevented spatial recording recorder from receiving bad data from network",
+      "Fixed Keyboard Shift/Caps/Symbol buttons",
+      "Fixed misc. guest camera problems",
+      "Fixed bug where Remote/Ghost avatars copied the main user's avatar customization on initialization"
+    ],
+    "releaseDate": "July 16, 2021",
+    "downloadLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Setup+Installers/Nanome+Setup+1.22+RC14.zip",
+    "apkLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.21.1+RC4.apk",
+    "viveLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Vive+APKs/Nanome+1.22+Vive.apk"
+  },
+  {
     "number": "1.21.1",
     "title": "The Advanced Tutorial Update",
     "features": [
