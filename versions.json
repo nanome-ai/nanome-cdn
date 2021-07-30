@@ -1,6 +1,6 @@
 [
   {
-    "number": "1.22",
+    "number": "1.22.2",
     "title": "The Web Browser Update",
     "features": [
       "In-Web Browser that has a private and public viewing mode",
@@ -30,10 +30,10 @@
       "Fixed misc. guest camera problems",
       "Fixed bug where Remote/Ghost avatars copied the main user's avatar customization on initialization"
     ],
-    "releaseDate": "July 16, 2021",
-    "downloadLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Setup+Installers/Nanome+Setup+1.22+RC14.zip",
-    "apkLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.22.apk",
-    "viveApkLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Vive+APKs/Nanome+1.22+Vive.apk"
+    "releaseDate": "July 29, 2021",
+    "downloadLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Setup+1.22.1+RC7.zip",
+    "apkLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.22.1.apk",
+    "viveApkLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Vive+APKs/Nanome+1.22.1+Vive.apk"
   },
   {
     "number": "1.21.1",
