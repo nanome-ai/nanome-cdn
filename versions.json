@@ -47,7 +47,7 @@
       "Fixed hiding DNA bases for cartoon representation",
       "Fixed the keyboard not open anymore after changing URLs in web browser and fixed its scaling",
       "Fixed a few issues with quest downloads.",
-      "Stopped copying charges after executing hydrogen integration",
+      "Stopped copying charges after executing hydrogen integration"
     ],
     "releaseDate": "December 2, 2021",
     "downloadLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Setup+1.23.zip",
