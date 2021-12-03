@@ -50,7 +50,7 @@
       "Stopped copying charges after executing hydrogen integration"
     ],
     "releaseDate": "December 2, 2021",
-    "downloadLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Setup+1.23.zip",
+    "downloadLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Setup+Installers/Nanome+Setup+1.23+RC21.zip",
     "apkLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.23.apk",
     "viveApkLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Vive+APKs/Nanome+1.23+Vive.apk"
   },
