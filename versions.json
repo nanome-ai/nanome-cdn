@@ -1,6 +1,6 @@
 [
   {
-    "number": "1.23.1",
+    "number": "1.23.2",
     "title": "The Meetings Update",
     "features": [
       "Calendar Invite system with Quick and Scheduled Links",
@@ -50,9 +50,9 @@
       "Stopped copying charges after executing hydrogen integration"
     ],
     "releaseDate": "December 2, 2021",
-    "downloadLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Setup+Installers/Nanome+Setup+1.23.1.zip",
-    "apkLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.23.1.apk",
-    "viveApkLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Vive+APKs/Nanome+1.23.1+Vive.apk"
+    "downloadLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Setup+Installers/Nanome+Setup+1.23.2+RC4.zip",
+    "apkLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.23.2.apk",
+    "viveApkLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Vive+APKs/Nanome+1.23.2+Vive.apk"
   },
   {
     "number": "1.22.1",
