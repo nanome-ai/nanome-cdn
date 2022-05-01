@@ -1,6 +1,6 @@
 [
   {
-    "number": "1.23.2",
+    "number": "1.23.3",
     "title": "The Meetings Update",
     "features": [
       "Calendar Invite system with Quick and Scheduled Links",
@@ -44,7 +44,9 @@
       "Added support for .gz on supported file types ",
       "Increased the width of the Stacks menu",
       "Improved labeling commands",
-      "Added Tooltip, Haptics, and Notification toggles to Settings Menu"
+      "Added Tooltip, Haptics, and Notification toggles to Settings Menu",
+      "Added 2 Factor Authentication",
+      "Added a 1-click binding site selection button"
     ],
     "fixes": [
       "Significantly improved room network performance when a user is joining/leaving a room",
@@ -74,12 +76,17 @@
       "Fixed bug where WebBrowser could crash the application",
       "Fixed bug where C Drive was unlocatable in the Load Menu",
       "Fixed bug where ESP maps coloring wasn't updating correctly",
-      "Fixed a few cases where SMILES files would load/save incorrectly"
+      "Fixed a few cases where SMILES files would load/save incorrectly",
+      "Fixed conformers with multiple chargers",
+      "Updated Choose Plugin prompt for non-NTS connected users",
+      "Fixed plugin lib serialization error handling",
+      "Added Room property information in logs",
+      "Enabled Enterprise Certs mode in Android-based VR device Web Browsers"
     ],
-    "releaseDate": "December 2, 2021",
-    "downloadLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Setup+Installers/Nanome+Setup+1.23.2+RC4.zip",
-    "apkLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.23.2.apk",
-    "viveApkLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Vive+APKs/Nanome+1.23.2+Vive.apk"
+    "releaseDate": "April 30, 2022",
+    "downloadLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Setup+Installers/Nanome+Setup+1.23.3+RC2.zip",
+    "apkLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.23.3.apk",
+    "viveApkLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Vive+APKs/Nanome+1.23.3+Vive.apk"
   },
   {
     "number": "1.22.1",
@@ -113,9 +120,9 @@
       "Fixed bug where Remote/Ghost avatars copied the main user's avatar customization on initialization"
     ],
     "releaseDate": "July 29, 2021",
-    "downloadLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Setup+1.22.1+RC7.zip",
+    "downloadLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Setup+Installers/Nanome+Setup+1.22.1+RC7.zip",
     "apkLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.22.1.apk",
-    "viveApkLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Vive+APKs/Nanome+1.22.1+Vive.apk"
+    "viveApkLink": "https://nanome.s3.us-west-1.amazonaws.com/installers/Nanome+Vive+APKs/Nanome+1.23.3+Vive.apk"
   },
   {
     "number": "1.21.1",
@@ -138,7 +145,7 @@
       "Improved Ribbon Rendering Performance (Quest 1 has the largest performance improvement)"
     ],
     "releaseDate": "April 21, 2021",
-    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+1.21.1+RC4.zip",
+    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+Installers/Nanome+Setup+1.21.1+RC4.zip",
     "apkLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.21.1+RC4.apk"
   },
   {
@@ -183,7 +190,7 @@
       "Fixed RCSB keyword search to adapt to their new API"
     ],
     "releaseDate": "April 27, 2021",
-    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+1.21+RC9.zip",
+    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+Installers/Nanome+Setup+1.21+RC9.zip",
     "apkLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.21+RC9.apk"
   },
   {
@@ -273,7 +280,7 @@
       "Fixed memory problem with EDM that was causing Quest to crash"
     ],
     "releaseDate": "November 17, 2020",
-    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+1.19.2+RC3.zip",
+    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+Installers/Nanome+Setup+1.19.2+RC3.zip",
     "apkLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.19.2.apk"
   },
   {
@@ -336,7 +343,7 @@
       "Improved voice transmission performance"
     ],
     "releaseDate": "July 1, 2020",
-    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+1.18.2+RC1.zip",
+    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+Installers/Nanome+Setup+1.18.2+RC1.zip",
     "apkLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.18.2.apk"
   },
   {
@@ -378,7 +385,7 @@
       "Infrastructure for the Add Hydrogens plugin, Structure Preparation Plugin, and ESP"
     ],
     "releaseDate": "April 3, 2020",
-    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+1.17+RC10.zip",
+    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+Installers/Nanome+Setup+1.17+RC10.zip",
     "apkLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.17.apk"
   },
   {
@@ -412,7 +419,7 @@
       "Fixed complex naming conflict refresh"
     ],
     "releaseDate": "February 24, 2020",
-    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+1.19.2+RC3.zip",
+    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+Installers/Nanome+Setup+1.19.2+RC3.zip",
     "apkLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.16.apk"
   },
   {
@@ -465,7 +472,7 @@
       "Fixed MedChem not working when pointing at a menu"
     ],
     "releaseDate": "November 27, 2019",
-    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+1.15.1+RC11.zip",
+    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+Installers/Nanome+Setup+1.15.1+RC11.zip",
     "apkLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.15.apk"
   },
   {
@@ -517,7 +524,7 @@
       "Fixed a crash happening when too many atoms were exactly at the same position"
     ],
     "releaseDate": "October 23, 2019",
-    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+1.14+RC4.zip",
+    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+Installers/Nanome+Setup+1.14+RC4.zip",
     "apkLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Quest+APKs/Nanome+1.14.apk"
   },
   {
@@ -571,7 +578,7 @@
       "Improved renderer stability"
     ],
     "releaseDate": "September 19, 2019",
-    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+1.13+RC7.zip"
+    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+Installers/Nanome+Setup+1.13+RC7.zip"
   },
   {
     "number": "1.12",
@@ -597,7 +604,7 @@
       "Improved positioning of Undo button"
     ],
     "releaseDate": "August 12, 2019",
-    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+1.12+RC10.zip"
+    "downloadLink": "https://nanome.s3-us-west-1.amazonaws.com/installers/Nanome+Setup+Installers/Nanome+Setup+1.12+RC10.zip"
   },
   {
     "number": "1.11",
