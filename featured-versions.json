@@ -128,6 +128,17 @@
         "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-11-wscontent/macro_workspace.png",
         "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-11-wscontent/macro.png",
         "featured_workspace_uid": "11"
+      },
+      {
+       "title": "Keytruda + PD-1",
+        "description": "PD-1 in complex with the Keytruda Fab",
+        "pdb_codes": [
+          "5GGS"
+        ],
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/blob/808b818e4374c5bbad3c13ad2ba274339bb3dbe6/Featured-workspaces/uid-12-ws-content/keytruda_feature.nanome",
+        "rectangular_image": "hhttps://github.com/nanome-ai/nanome-cdn/blob/1.24.5_changes/Featured-workspaces/uid-12-ws-content/Keytruda%2BPD-1.png",
+        "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-11-wscontent/macro.png",
+        "featured_workspace_uid": "12"
       }
     ],
     "featured_workspaces_standalone": [
@@ -257,6 +268,17 @@
         "rectangular_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-11-wscontent/macro_workspace.png",
         "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-11-wscontent/macro.png",
         "featured_workspace_uid": "11"
+      },
+      {
+       "title": "Keytruda + PD-1",
+        "description": "PD-1 in complex with the Keytruda Fab",
+        "pdb_codes": [
+          "5GGS"
+        ],
+        "workspace_file": "https://github.com/nanome-ai/nanome-cdn/blob/808b818e4374c5bbad3c13ad2ba274339bb3dbe6/Featured-workspaces/uid-12-ws-content/keytruda_feature.nanome",
+        "rectangular_image": "hhttps://github.com/nanome-ai/nanome-cdn/blob/1.24.5_changes/Featured-workspaces/uid-12-ws-content/Keytruda%2BPD-1.png",
+        "square_image": "https://github.com/nanome-ai/nanome-cdn/raw/master/Featured-workspaces/uid-11-wscontent/macro.png",
+        "featured_workspace_uid": "12"
       }
     ],
     "featured_molecules": [
